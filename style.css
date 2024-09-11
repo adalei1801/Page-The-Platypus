@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: aliceblue;
+    font-family: "Georgia";
+    color: #184A1B;
+  }
+  
+  a {
+    color: #184A1B;
+    font-weight: 200px;
+  }
+  
+  img {
+    border: 5px solid #184A1B;
+  }
+  
+  .perry {
+    border: none;
+  }
+  
+  iframe {
+    border: 5px solid #184A1B;
+  }
+  
+  .topnav  {
+    background-color: #184A1B;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #F3F3A5;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .topnav a:hover {
+    background-color: #D0FFBB;
+    color: #005105;
+  }
+  
+  .topnav a.active {
+    background-color: #D0FFBB;
+    color: #005105;
+  }
